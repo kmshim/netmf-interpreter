@@ -314,7 +314,6 @@
 				RelativePath="AssemblyParser.h"
 				>
 			</File>
-  		</File>
 			<File
 				RelativePath="cor.h"
 				>
